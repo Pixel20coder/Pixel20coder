@@ -150,13 +150,11 @@ const shivam = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pixel20coder/Pixel20coder/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pixel20coder/Pixel20coder/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pixel20coder/Pixel20coder/output/github-snake-dark.svg" />
-</picture>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pixel20coder/Pixel20coder/output/github-snake-dark.svg" />
 
 </div>
+
+> 💡 *Run the "Generate Snake Animation" workflow from [Actions](https://github.com/Pixel20coder/Pixel20coder/actions) to activate the snake!*
 
 ---
 
